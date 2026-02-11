@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Plus, Edit2, Trash2, Gift } from 'lucide-react';
+import { Plus, Edit2, Trash2 } from 'lucide-react';
 import {
     mockCoupons,
     mockUsers,
