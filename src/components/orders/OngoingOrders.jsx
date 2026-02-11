@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { Search, Check, Truck, XCircle } from "lucide-react";
+import { Search } from "lucide-react";
 import { mockOrders, mockUsers, mockAddresses } from "../../lib/mockData";
 
 /* ✅ Move outside component to fix ESLint dependency warning */
